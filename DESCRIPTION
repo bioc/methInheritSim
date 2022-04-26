@@ -4,7 +4,7 @@ Title: Simulating Whole-Genome Inherited Bisulphite Sequencing Data
 Description: Simulate a multigeneration methylation case versus control
         experiment with inheritance relation using a real control
         dataset.
-Version: 1.18.0
+Version: 1.19.0
 Date: 2021-11-21
 Author: Pascal Belleau, Astrid Deschênes and Arnaud Droit
 Author@R: c(person("Pascal", "Belleau",
