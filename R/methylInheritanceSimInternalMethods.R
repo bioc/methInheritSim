@@ -333,7 +333,7 @@ getDiffCase <- function(ctrlMean, ctrlVar, selectedAsDM, nbCase, sDiff,
 #' @author Pascal Belleau, Astrid Deschenes
 #' @importFrom msm rtnorm
 #' @importFrom GenomicRanges GRangesList GRanges
-#' @importFrom GenomeInfoDb seqnames
+#' @importFrom Seqinfo seqnames
 #' @importFrom IRanges ranges
 #' @importFrom BiocGenerics strand
 #' @importFrom S4Vectors mcols
